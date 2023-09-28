@@ -1,7 +1,1 @@
-git fetch origin/master
-git merge origin master
-touch up_to_date
-git add up_to_date
-git commit -m "How to be up to date in git"
-"git push origin master"
-"git pull"
+git pull
